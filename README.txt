@@ -1,4 +1,4 @@
-addition to readme
+
 CONTENTS OF THIS FILE
 ---------------------
 
@@ -122,5 +122,5 @@ More about developing:
  * Refer to the API documentation:
    http://api.drupal.org/api/drupal/7
    
-  git test
+  cleaned
 add from pico
